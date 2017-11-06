@@ -9,11 +9,6 @@ h1 {
   color: white;
 }
 
-a {
-  font-size: 16px;
-  color: aquamarine;
-}
-
 h2 {
   font-size: 42px;
   font-weight: 300px;
@@ -23,6 +18,11 @@ h2 {
 p {
   font-size: 21px;
   color: gray;
+}
+
+a {
+  font-size: 16px;
+  color: aquamarine;
 }
 
 #footer {
